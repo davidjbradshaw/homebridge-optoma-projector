@@ -7,7 +7,7 @@ A plugin for Homebridge, to control Optoma Projectors via Telnet.
 Install the plugin:
 
 ```
-sudo npm install -g --unsafe-perm homebridge-optoma-projector-telnet
+sudo npm install -g --unsafe-perm homebridge-optoma-projector
 ```
 
 Add your projector in your Hombridge `config.js`:
