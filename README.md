@@ -1,8 +1,4 @@
-[![npm](https://badgen.net/npm/v/homebridge-optoma-projector-telnet/latest)](https://www.npmjs.com/package/homebridge-optoma-projector-telnet) 
-[![npm](https://badgen.net/npm/dt/homebridge-optoma-projector-telnet)](https://www.npmjs.com/package/homebridge-optoma-projector-telnet)
-
-
-# Homebridge Optoma Projector Telnet
+# Homebridge Optoma Projector
 
 A plugin for Homebridge, to control Optoma Projectors via Telnet.
 
