@@ -1,20 +1,10 @@
-[![npm](https://badgen.net/npm/v/homebridge-optoma-projector-telnet/latest)](https://www.npmjs.com/package/homebridge-optoma-projector-telnet) 
-[![npm](https://badgen.net/npm/dt/homebridge-optoma-projector-telnet)](https://www.npmjs.com/package/homebridge-optoma-projector-telnet)
-
-
 # Homebridge Optoma Projector Telnet
 
-A plugin for Homebridge, to control Optoma Projectors via Telnet.
+A plugin for Homebridge, to control Optoma Projectors.
 
-## Installation and configuration
+__This project is an unpublished work in progress__
 
-Install the plugin:
-
-```
-sudo npm install -g --unsafe-perm homebridge-optoma-projector-telnet
-```
-
-Add your projector in your Hombridge `config.js`:
+## Configuration
 
 ```
 "accessories": [
