@@ -1,16 +1,14 @@
+
 # Homebridge Optoma Projector
 
-A plugin for Homebridge, to control Optoma Projectors via Telnet.
 
-## Installation and configuration
+A plugin for Homebridge, to control Optoma Projectors.
 
-Install via the HomeBridge UI or via the command line:
 
-```
-sudo npm install homebridge-optoma-projector
-```
+__This project is an unpublished work in progress__
 
-Add your projector in your Hombridge `config.js`:
+
+## Configuration
 
 ```
 "accessories": [
@@ -33,3 +31,4 @@ Add your projector in your Hombridge `config.js`:
   * `model` (optional) - The projectors model (default value: `unkown`)
   * `serialNumber` (optional) - The projectors serial number (default value: `unknown`)
   * `logLevel` (optional) - 0: off, 1: default, 3: verbose (default value: `1`)
+
